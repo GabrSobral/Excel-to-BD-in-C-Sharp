@@ -1,0 +1,25 @@
+C:\Users\Gabriel\Desktop\Projeto_Escola\Projeto_Escola\bin\Debug\Projeto_Escola.exe.config
+C:\Users\Gabriel\Desktop\Projeto_Escola\Projeto_Escola\bin\Debug\Projeto_Escola.exe
+C:\Users\Gabriel\Desktop\Projeto_Escola\Projeto_Escola\bin\Debug\Projeto_Escola.pdb
+C:\Users\Gabriel\Desktop\Projeto_Escola\Projeto_Escola\bin\Debug\Proffreddy.dll
+C:\Users\Gabriel\Desktop\Projeto_Escola\Projeto_Escola\obj\Debug\Projeto_Escola.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\Projeto_Escola\Projeto_Escola\obj\Debug\Projeto_Escola.Form1.resources
+C:\Users\Gabriel\Desktop\Projeto_Escola\Projeto_Escola\obj\Debug\Projeto_Escola.Properties.Resources.resources
+C:\Users\Gabriel\Desktop\Projeto_Escola\Projeto_Escola\obj\Debug\Projeto_Escola.csproj.GenerateResource.cache
+C:\Users\Gabriel\Desktop\Projeto_Escola\Projeto_Escola\obj\Debug\Projeto_Escola.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Projeto_Escola\Projeto_Escola\obj\Debug\Projeto_Escola.csproj.CopyComplete
+C:\Users\Gabriel\Desktop\Projeto_Escola\Projeto_Escola\obj\Debug\Projeto_Escola.exe
+C:\Users\Gabriel\Desktop\Projeto_Escola\Projeto_Escola\obj\Debug\Projeto_Escola.pdb
+C:\Users\Gabriel\Desktop\Gabriel\Projetos VS2019\Projeto_Escola\Projeto_Escola\bin\Debug\Projeto_Escola.exe.config
+C:\Users\Gabriel\Desktop\Gabriel\Projetos VS2019\Projeto_Escola\Projeto_Escola\bin\Debug\Projeto_Escola.exe
+C:\Users\Gabriel\Desktop\Gabriel\Projetos VS2019\Projeto_Escola\Projeto_Escola\bin\Debug\Projeto_Escola.pdb
+C:\Users\Gabriel\Desktop\Gabriel\Projetos VS2019\Projeto_Escola\Projeto_Escola\bin\Debug\Proffreddy.dll
+C:\Users\Gabriel\Desktop\Gabriel\Projetos VS2019\Projeto_Escola\Projeto_Escola\obj\Debug\Projeto_Escola.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\Gabriel\Projetos VS2019\Projeto_Escola\Projeto_Escola\obj\Debug\Projeto_Escola.Properties.Resources.resources
+C:\Users\Gabriel\Desktop\Gabriel\Projetos VS2019\Projeto_Escola\Projeto_Escola\obj\Debug\Projeto_Escola.csproj.GenerateResource.cache
+C:\Users\Gabriel\Desktop\Gabriel\Projetos VS2019\Projeto_Escola\Projeto_Escola\obj\Debug\Projeto_Escola.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Gabriel\Projetos VS2019\Projeto_Escola\Projeto_Escola\obj\Debug\Projeto_Escola.csproj.CopyComplete
+C:\Users\Gabriel\Desktop\Gabriel\Projetos VS2019\Projeto_Escola\Projeto_Escola\obj\Debug\Projeto_Escola.exe
+C:\Users\Gabriel\Desktop\Gabriel\Projetos VS2019\Projeto_Escola\Projeto_Escola\obj\Debug\Projeto_Escola.pdb
+C:\Users\Gabriel\Desktop\Gabriel\Projetos VS2019\Projeto_Escola\Projeto_Escola\bin\Debug\MySql.Data.dll
+C:\Users\Gabriel\Desktop\Gabriel\Projetos VS2019\Projeto_Escola\Projeto_Escola\obj\Debug\Projeto_Escola.Main.resources
